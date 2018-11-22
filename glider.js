@@ -411,4 +411,6 @@
       eventHandler(k, args[k]);
     });
   }
+
+  return Glider;
 }));
